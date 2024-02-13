@@ -1,0 +1,12 @@
+* {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.btn-area{
+    display: flex;
+    /* justify-content: space-between; */
+    gap: 20px;
+    margin: 10px;
+}
+#game-area {
+    margin: 20px;
+}
